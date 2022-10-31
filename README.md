@@ -1,4 +1,4 @@
-# Docker Cheatsheet
+# Docker Cheat Sheet
 This README provides some helpful stuff about [Docker](https://www.docker.com/).
 
 ## Setup
